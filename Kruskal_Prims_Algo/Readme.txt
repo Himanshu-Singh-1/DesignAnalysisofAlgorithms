@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------
 
 ## DESCRIPTION OF PROJECT:
-Implementation of Kruskals and prims algorithms.
+Implementation of Kruskals and prims, 2 algorithms.
 -----------------------------------------------------------------------
 
 ## INPUT:
