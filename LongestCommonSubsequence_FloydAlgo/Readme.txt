@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------
 
 ## PROJECT DESCRIPTION:
-Project has implementation of 2  algorithms: Floyd Algorithm, Longest Common Subsequence algorithm
+Project has implementation of two  algorithms: Floyd Algorithm, Longest Common Subsequence algorithm
 -----------------------------------------------------------------------
 
 ## FILES INCLUDED:
