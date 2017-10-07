@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------
 
 ## DESCRIPTION OF PROJECT:
-Implmentation of 0/1 knapsack problem using 3 methods: brute force, dynamic programming, backtracking algorithm.
+Implmentation of 0/1 knapsack problem using three methods: brute force, dynamic programming, backtracking algorithm.
 -----------------------------------------------------------------------
 
 ## INPUT:
