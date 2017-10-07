@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------
 
 ## PROJECT DESCRIPTION:
-Project has implementation of 4 algorithms: heap sort, radix sort, strassen algorithm for matrix multiplication, large integer multiplication by divide and conquer.
+Project has implementation of four 4 algorithms: heap sort, radix sort, strassen algorithm for matrix multiplication, large integer multiplication by divide and conquer.
 -----------------------------------------------------------------------
 
 ## FILES INCLUDED:
