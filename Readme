@@ -1,2 +1,23 @@
 Projects from Design Analysis of Algorithms Course: 
 
+1. Project Knapsack_DynamicRefinement_Algo
+Goal:
+Implmentation of 0/1 knapsack problem using three methods: brute force, dynamic programming, backtracking algorithm.
+
+2. Project Kruskal_Prims_Algo
+Goal:
+Implementation of Kruskals and Prims algorithms.
+
+3. Project LongestCommonSubsequence_Floyd algorithm
+Goal:
+Project has implementation of two  algorithms: Floyd Algorithm, Longest Common Subsequence algorithm.
+
+4. Project Sorting_Algorithms
+Goal:
+Project has implementation of 4 sorting algorithms: Exchange, Merge, Insertion and Quick sort.
+
+5. Project Strassen_LargeIntegerMultiplication_HeapRadixSort
+Goal:
+Project has implementation of four 4 algorithms: heap sort, radix sort, strassen algorithm for matrix multiplication, large integer multiplication by divide and conquer.
+
+
